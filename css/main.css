@@ -912,7 +912,7 @@ section-title
   display: none;
 }
 
-.navbar-nav .nav-item .nav-link::before {
+/* .navbar-nav .nav-item .nav-link::before {
   content: '\f078';
   position: absolute;
   font-family: "Font Awesome 5 pro";
@@ -921,15 +921,15 @@ section-title
   top: 44%;
   z-index: 1;
 }
-
+ */
 .navbar-nav .nav-item .nav-link:hover {
   color: #2878EB;
 }
 
-/* .navbar-nav .nav-item:last-child .nav-link::before {
+.navbar-nav .nav-item:last-child .nav-link::before {
   display: none;
 }
- */
+
 .navbar-nav .nav-item:hover > .nav-link {
   color: #2878EB;
 }

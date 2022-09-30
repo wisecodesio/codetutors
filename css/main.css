@@ -888,10 +888,10 @@ section-title
   color: #2878EB;
 }
 
-.navbar-nav .nav-item.active .nav-link {
+/* .navbar-nav .nav-item.active .nav-link {
   color: #2878EB;
 }
-
+ */
 .navbar-nav .nav-item .nav-link {
   color: #505050;
   font-size: 20px;
